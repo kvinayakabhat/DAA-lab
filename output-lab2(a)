@@ -1,0 +1,93 @@
+1.Teaching
+2.Technical
+3.Contract
+4.Exit
+Enter your choice
+1
+Enter the number of teaching staff 
+3
+Enter teaching staff details: ID Name Phone Salary Domain Publications 
+123
+vinayak
+9481388457
+90000
+CS
+7
+124
+karthik
+6361832678
+92000
+IS
+6
+125
+ananya
+9535465674
+95000
+CS
+5
+SId	Name	Phone	     Salary	Domain	Publications
+123	vinayak	9481388457	90000	CS	7	
+124	karthik	6361832678	92000	IS	6	
+125	ananya	9535465674	95000	CS	5	
+1.Teaching
+2.Technical
+3.Contract
+4.Exit
+Enter your choice
+2
+Enter the number of technical staff 
+3
+Enter technical staff details: ID Name Phone Salary Skills
+234
+divya
+9108045678
+80000
+C++
+235
+chaitra
+7894561230
+70000
+C
+236
+kshama
+3216549871
+85000
+python
+SId	Name	Phone	Salary	Skills
+234	divya	9108045678	80000	C++	
+235	chaitra	7894561230	70000	C	
+236	kshama	3216549871	85000	python	
+1.Teaching
+2.Technical
+3.Contract
+4.Exit
+Enter your choice
+3
+Enter the number of contract staff 
+3
+Enter contract staff details: ID Name Phone Salary Period
+345
+anantesh
+7418529630
+90000
+4
+346
+abhay
+1472583699
+80000
+5
+347
+anie
+1212345456
+95000
+2
+SId	Name	Phone	Salary	Period
+345	anantesh	7418529630	90000	4	
+346	abhay	1472583699	80000	5	
+347	anie	1212345456	95000	2	
+1.Teaching
+2.Technical
+3.Contract
+4.Exit
+Enter your choice
+4

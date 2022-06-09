@@ -1,2 +1,2 @@
 # DAA-lab
-Programs of $th sem DAA lab
+Programs of 4th sem DAA lab

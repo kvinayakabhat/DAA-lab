@@ -1,0 +1,10 @@
+Enter the no. customers
+
+2
+Enter customer Name and DOB (DD:MM:YYY):
+raj23/10/2001
+Customer DATA is :
+raj23, 10, 2001Enter customer Name and DOB (DD:MM:YYY):
+ravi12/11/2002
+Customer DATA is :
+ravi12, 11, 2002

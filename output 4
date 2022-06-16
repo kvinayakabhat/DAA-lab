@@ -1,0 +1,17 @@
+Enter no. of elements
+10
+Random numbers generated are: 
+3938
+5265
+889
+6378
+3191
+3084
+4337
+8102
+9379
+4414
+
+Elements after sorting 
+889 3084 3191 3938 4337 4414 5265 6378 8102 9379 
+Total time taken to sort the numbers is: 0.022047milliseconds

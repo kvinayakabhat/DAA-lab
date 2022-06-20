@@ -1,0 +1,12 @@
+Enter the size of array :-
+5
+The random numbers generated are:- 
+4838
+6011
+2977
+4433
+1492
+
+The sorted array is :-
+1492  2977  4433  4838  6011  
+Time taken is 0.009301 milliseconds

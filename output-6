@@ -1,0 +1,17 @@
+Enter no. of items: 
+
+4
+
+Enter the capacity: 
+
+5
+
+Enter the weights: 
+
+2 1 3 2
+
+Enter the cost: 
+
+12 10 20 15
+
+The optimal solution is: 37

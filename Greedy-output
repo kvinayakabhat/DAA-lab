@@ -1,0 +1,16 @@
+Enter no. of objects
+4
+Enter the max capacity of knapsack: 
+8
+Enter weights
+2 3 4 2
+Enter profits: 
+10 11 12 13
+i=3
+The solution vector,x[]:
+1.0 
+1.0 
+1.0 
+0.25 
+
+Total profit is =37.0

@@ -1,0 +1,19 @@
+Enter no. of vertices: 
+5
+Enter the cost adjacency matrix: 
+0   3   999 7   999
+999 0   4   2   999
+999 999 0   999 6
+999 999 5   0   4
+999 999 999 999 0
+
+Enter the source node: 
+1
+
+Shortest path from 1 to 2 is 3
+
+Shortest path from 1 to 3 is 7
+
+Shortest path from 1 to 4 is 5
+
+Shortest path from 1 to 5 is 9

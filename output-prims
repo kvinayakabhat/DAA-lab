@@ -1,0 +1,20 @@
+Enter no. of vertices: 
+4
+Enter the cost adjacency matrix: 
+999 1 5 2
+1 999 999 999
+5 999 999 3
+2 999 3 999
+Enter the root node: 
+1
+
+Minimum cost spanning tree is
+
+
+Edge1	1->2=1
+
+Edge2	1->4=2
+
+Edge3	4->3=3
+
+Minimum cost=6

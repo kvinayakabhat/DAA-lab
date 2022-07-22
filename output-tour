@@ -1,0 +1,22 @@
+Enter No. of Cities: 4
+Enter the Cost Matrix
+0 2 1 999
+999 0 2 1
+999 999 0 2
+2 999 999 0
+
+
+	Travelling Salesperson Problem
+
+	The Cost Matrix is
+
+	0	2	1	999
+	999	0	2	1
+	999	999	0	2
+	2	999	999	0
+
+
+	The Optimal Tour is = 1->2->3->4->1
+
+
+	Minimum Cost = 8
